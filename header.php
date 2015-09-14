@@ -32,7 +32,6 @@
 		<div class="grid_2" id="outsideLinks">
 			<ul>
 				<li><a href="http://sigristhomes.com/">Sigrist Homes</a></li>
-				<li><a href="http://sutterstreetmhp.com/">Sutter Street</a></li>
 			</ul>
 		</div> <!-- End outsideLinks -->
 	</header>
