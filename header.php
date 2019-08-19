@@ -1,5 +1,5 @@
-<?php update_option('siteurl','http://rocklinestates.com');
-    update_option('home','http://rocklinestates.com'); ?>
+<?php update_option('siteurl','https://rocklinestates.com');
+    update_option('home','https://rocklinestates.com'); ?>
 
 <!DOCTYPE html>
 <html <?php language_attributes(); ?>>
@@ -9,8 +9,8 @@
 	<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory'); ?>/css/min/reset.css" />
 	<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory'); ?>/css/min/text.css" />
 	<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory'); ?>/css/min/960_12_col.css" />
-	<link href='http://fonts.googleapis.com/css?family=Volkhov:400italic|Shanti' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Nobile:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+	<link href='//fonts.googleapis.com/css?family=Volkhov:400italic|Shanti' rel='stylesheet' type='text/css'>
+	<link href='//fonts.googleapis.com/css?family=Nobile:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="<?php bloginfo('stylesheet_url'); ?>" />
 	<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -31,7 +31,7 @@
 		</div> <!-- End titles  -->
 		<div class="grid_2" id="outsideLinks">
 			<ul>
-				<li><a href="http://sigristhomes.com/">Sigrist Homes</a></li>
+				<li><a href="https://sigristhomes.com/">Sigrist Homes</a></li>
 			</ul>
 		</div> <!-- End outsideLinks -->
 	</header>
